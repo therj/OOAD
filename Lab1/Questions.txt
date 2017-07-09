@@ -1,0 +1,12 @@
+1. Restaurant Management System.
+<<Details not available>>
+
+2. An automatic teller machine (ATM) or the automatic banking machine (ABM) is a banking subsystem that provides bank customers with access to financial transactions in a public space without the need for a cashier, clerk or bank teller. 
+Customer uses Bank ATM to check balance is of his / her bank account, funds, cash and/or transfer funds ATM. 
+Technician provides maintenance and repairs. All these use cases also involve Bank actor whether it is related to customer transactions or to the ATM servicing.
+
+3. Hospital management system is a large system including several subsystems or modules providing variety of functions. 
+Purpose: describe major services (functionality) provided by hospital's reception. 
+Hospital reception subsystem or moral support some of the many job duties of hospital receptionist. Receptionist schedules patient's appointments and admission to the hospital, collect information from patient upon patient's arrival and/or by phone. For the patient that will stay in the hospital ("inpatient") she or he should have a bad allotted in the ward. Receptionist might also receive patient's payments record them in  a database and provide receipts, file insurance claims and medical reports.
+
+4. Draw a use case diagram for your minor project system.
