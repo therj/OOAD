@@ -1,5 +1,5 @@
 1. Restaurant Management System.
-<<Details not available>>
+<<<Details not available>>>
 
 2. An automatic teller machine (ATM) or the automatic banking machine (ABM) is a banking subsystem that provides bank customers with access to financial transactions in a public space without the need for a cashier, clerk or bank teller. 
 Customer uses Bank ATM to check balance is of his / her bank account, funds, cash and/or transfer funds ATM. 
