@@ -1,0 +1,7 @@
+No scenerios, again. Got a brain? Use it. ;)
+
+Sequence Diagrams.
+1. Ticket Reservation System
+2. Library Management System
+3. Hospital Management System
+4. Movie success Predictor (Minor Project)
