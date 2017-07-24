@@ -1,0 +1,6 @@
+Scenerio wasn't provided, so use your brain and a little common sense!
+
+1. College Management System
+2. Library Management System
+3. Order Management System
+4. Minor Project (Movie Success Predictor)
