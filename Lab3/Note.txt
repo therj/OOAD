@@ -5,3 +5,6 @@ Sequence Diagrams.
 2. Library Management System
 3. Hospital Management System
 4. Movie success Predictor (Minor Project)
+
+I'm not sure of accuracy of diagrams, starUML wouldn't take some symbols my textbook would recommend.
+I don't know what to do.
